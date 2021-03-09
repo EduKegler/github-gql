@@ -1,0 +1,9 @@
+.navbar { 
+    display: flex;
+}
+
+.navbar__search { 
+    display: flex;
+    align-items: center;
+    max-width: 360px;
+}
