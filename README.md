@@ -1,3 +1,5 @@
+DEMO here: https://github-gql.vercel.app/
+
 # How to run?
 
 Insert your GITHUB token access in .env file. (copy .env.example to an .env file).
